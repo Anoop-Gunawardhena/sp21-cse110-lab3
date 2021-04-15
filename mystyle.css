@@ -1,1 +1,7 @@
-
+body {
+  background-color: yellow;
+}
+h1 {
+  color: lavender;
+  marrgin-left: 20px;
+}
