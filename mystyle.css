@@ -1,5 +1,5 @@
 body {
-   making the background color yellow
+   /*making the background color yellow*/
   background-color: yellow;
 }
 
@@ -7,13 +7,13 @@ h1 {
   color: blue;
   margin-left: 20px;
   size: 3in 6in;
-}/*
+}
 div{
   border-color: #FF0000 rgb(255, 192, 105) hsla(60, 90%, 50%, .8);
   border-style: double;
   border-width: thick;
   border-radius: 25% 10%;
-}*/
+}
 p {
   color: red;
   text-indent: 10px;
