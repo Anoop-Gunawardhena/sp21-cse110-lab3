@@ -14,6 +14,10 @@ div {
   border-width: thick;
   border-radius: 25% 10%;
 }
+ul.days > li{
+  
+  margin: 2em;
+}
 .red{
   color: red;
   text-indent: 10px;
