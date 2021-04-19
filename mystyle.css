@@ -11,7 +11,7 @@ div{
   border-color: #FF0000 rgb(255, 192, 105) hsla(60, 90%, 50%, .8);
   border-style: double;
   border-width: thick;
-  border-radius: 25% 10%
+  border-radius: 25% 10%;
 }
 p {
   color: red;
