@@ -14,9 +14,22 @@ div {
   border-width: thick;
   border-radius: 25% 10%;
 }
-p {
+.red{
   color: red;
   text-indent: 10px;
+  text-transform: uppercase;
+  margin-left: 30px;
+}
+.blue{
+   color: red;
+  text-indent: 10px;
+  text-transform: uppercase;
+  margin-left: 30px;
+}
+.fancy{
+   color: silver;
+  text-indent: 10px;
+   text-decoration: underline;
   text-transform: uppercase;
   margin-left: 30px;
 }
