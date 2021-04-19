@@ -21,6 +21,9 @@ ul.days > li{
   
   margin: 2em;
 }
+ul.takeaway{
+    margin: 2em;
+}
 .red{
   color: red;
   text-indent: 10px;
