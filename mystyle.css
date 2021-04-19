@@ -81,8 +81,9 @@ ul.takeaway{
    text-align: left;
 }
 #fridaylist{
-
-  display: block;
+   display: grid;
+   grid-template-columns: 60px 70px auto 70px 60px;
+  grid-template-rows: 25% 100px auto;
    font-family: Roboto, serif,  Karantina;
    position: static;
    margin: 5% auto;
