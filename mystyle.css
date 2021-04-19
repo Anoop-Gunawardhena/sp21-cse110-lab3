@@ -15,7 +15,7 @@ img ~ p {
   color: green;
 }
 *{
-   text-align: justify;
+   text-align: left;
 }
 li:first-of-type + li {
   color: red;
@@ -72,7 +72,7 @@ ul.takeaway{
    padding-left: 10px;
    padding-right: 10px;
    text-decoration: overline;
-   text-align: justify;
+   text-align: left;
 }
 #fridaylist{
    display: block;
