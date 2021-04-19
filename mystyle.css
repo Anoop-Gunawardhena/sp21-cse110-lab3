@@ -2,17 +2,36 @@ body{
    /* making the background color yellow */
   background-color: yellow;
 }
-
+@font-face {
+  font-family: Roboto;
+  src: url(./Roboto-Black.ttf);
+}
 h1 {
   color: blue;
   margin-left: 20px;
   size: 3in 6in;
+}
+img ~ p {
+  color: green;
+}
+*{
+   text-align: justify;
+}
+li:first-of-type + li {
+  color: red;
 }
 div {
   border-color: #FF0000 rgb(255, 192, 105) hsla(60, 90%, 50%, .8);
   border-style: double;
   border-width: thick;
   border-radius: 25% 10%;
+}
+ul.days > li{
+  
+  margin: 2em;
+}
+ul.takeaway{
+    margin: 2em;
 }
 .red{
   color: red;
@@ -72,6 +91,9 @@ height: 200px;
 width: 50%;
 position: fixed;
 color: #013220;
+}
+button:hover {
+  color: blue;
 }
 /*
 h3 {
