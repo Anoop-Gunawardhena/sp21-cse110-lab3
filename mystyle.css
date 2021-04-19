@@ -26,6 +26,12 @@ div {
   border-width: thick;
   border-radius: 25% 10%;
 }
+.days{
+display: flex;
+flex-direction: column;
+flex-wrap: wrap;
+flex-shrink: 3; 
+}
 ul.days > li{
   
   margin: 2em;
