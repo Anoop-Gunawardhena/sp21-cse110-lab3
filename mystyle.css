@@ -1,5 +1,5 @@
-body {
-   /*making the background color yellow*/
+body{
+   /* making the background color yellow */
   background-color: yellow;
 }
 
@@ -8,7 +8,7 @@ h1 {
   margin-left: 20px;
   size: 3in 6in;
 }
-div{
+div {
   border-color: #FF0000 rgb(255, 192, 105) hsla(60, 90%, 50%, .8);
   border-style: double;
   border-width: thick;
@@ -31,7 +31,36 @@ p {
 #saturday{
   color: brown;
   margin-left: 20px;
-}/*
+}
+#thursdaylist{
+   border-style: solid;
+   border-width: thick;
+   padding-top: 35px;
+   padding-bottom: 35px;
+   padding-left: 10px;
+   padding-right: 10px;
+   text-decoration: overline;
+   text-align: justify;
+}
+#fridaylist{
+   display: block;
+   font-family: Roboto, serif,  Karantina;
+   position: static;
+   margin: 5% auto;
+   max-height: 150px;
+   max-width: 150px;
+   
+}
+#saturdaylist{
+display: inline;
+margin: 50px 250px 100px;
+padding: 10px 50px 30px 0;
+height: 200px;
+width: 50%;
+position: fixed;
+color: #013220;
+}
+/*
 h3 {
   color: blue;
   margin-left: 20px;
