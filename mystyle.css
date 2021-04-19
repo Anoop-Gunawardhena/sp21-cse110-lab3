@@ -86,6 +86,9 @@ width: 50%;
 position: fixed;
 color: #013220;
 }
+button:hover {
+  color: blue;
+}
 /*
 h3 {
   color: blue;
