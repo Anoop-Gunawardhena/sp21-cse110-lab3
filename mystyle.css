@@ -11,6 +11,9 @@ h1 {
   margin-left: 20px;
   size: 3in 6in;
 }
+*{
+   text-align: justify;
+}
 div {
   border-color: #FF0000 rgb(255, 192, 105) hsla(60, 90%, 50%, .8);
   border-style: double;
