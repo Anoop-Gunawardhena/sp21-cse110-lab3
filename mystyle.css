@@ -11,6 +11,9 @@ h1 {
   margin-left: 20px;
   size: 3in 6in;
 }
+img ~ p {
+  color: green;
+}
 *{
    text-align: justify;
 }
